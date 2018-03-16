@@ -1,6 +1,6 @@
 var Example = Example || {};
 
-var game = new Phaser.Game(320, 240, Phaser.CANVAS);
+var game = new Phaser.Game(480, 360, Phaser.CANVAS);
 
 game.state.add("BootState", new Example.BootState());
 game.state.add("LoadingState", new Example.LoadingState());
