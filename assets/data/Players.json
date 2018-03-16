@@ -1,0 +1,10 @@
+{
+    "player1": { 
+        "name": "Gabe", 
+        "health": 100 
+    },
+    "player2": { 
+        "name": "T", 
+        "health": 100 
+    }
+}
